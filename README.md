@@ -1,2 +1,2 @@
 # trees
-# Just a some tree algos to solve maze problems :)
+# Simple tree algos to solve maze problems :)
